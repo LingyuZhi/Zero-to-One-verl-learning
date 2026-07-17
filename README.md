@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/icon.png" width="120" alt="Zero-to-One verl Learning"></p>
+<p align="center"><img src="assets/icon.png" width="360" alt="Zero-to-One verl Learning"></p>
 
 # Zero-to-One verl Learning
 
